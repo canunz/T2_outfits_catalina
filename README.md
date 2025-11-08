@@ -40,7 +40,6 @@ Se empleó un entorno virtual con las dependencias definidas en `requirements.tx
 - **diccionario_variables.txt** → Descripción de variables del dataset  
 - **referencias.txt** → Bibliografía y fuentes  
 - **requirements.txt** → Dependencias del entorno  
-- **rubrica.txt** → Pauta oficial del trabajo  
 - **README.md** → Documento informativo (este archivo)
 
 ---
