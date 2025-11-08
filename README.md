@@ -26,23 +26,22 @@ Se empleó un entorno virtual con las dependencias definidas en `requirements.tx
 
 ## 📁 Estructura del proyecto
 
-BI_T2_NuñezCatalina/
-│
-├── figuras/ → Gráficos generados por los modelos
-│ ├── 01_publicaciones_por_anio.png
-│ ├── 02_regresion_temporal.png
-│ ├── 03_validacion_cruzada.png
-│ ├── 04_matriz_confusion_alta_baja.png
-│ ├── 07_roc_curve_reciente.png
-│ └── ...
-│
-├── BI_T2_NuñezCatalina.ipynb → Notebook principal con el desarrollo
-├── outfits (1).csv → Dataset base
-├── diccionario_variables.txt → Descripción de variables del dataset
-├── referencias.txt → Bibliografía y fuentes
-├── requirements.txt → Dependencias del entorno
-└── README.md → Documento informativo (este archivo)
+**Carpeta principal:** `BI_T2_NuñezCatalina/`
 
+- **figuras/** → Gráficos generados por los modelos  
+  - 01_publicaciones_por_anio.png  
+  - 02_regresion_temporal.png  
+  - 03_validacion_cruzada.png  
+  - 04_matriz_confusion_alta_baja.png  
+  - 07_roc_curve_reciente.png  
+  - ...  
+- **BI_T2_NuñezCatalina.ipynb** → Notebook principal con el desarrollo  
+- **outfits (1).csv** → Dataset base  
+- **diccionario_variables.txt** → Descripción de variables del dataset  
+- **referencias.txt** → Bibliografía y fuentes  
+- **requirements.txt** → Dependencias del entorno  
+- **rubrica.txt** → Pauta oficial del trabajo  
+- **README.md** → Documento informativo (este archivo)
 
 ---
 
