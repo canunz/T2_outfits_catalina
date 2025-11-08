@@ -1,4 +1,6 @@
-## 🧾 Referencias
+============================================================= 
+      REFERENCIAS Archivo: BI_T2_NuñezCatalina.ipynb 
+=============================================================
 
 **Archivo:** `BI_T2_NuñezCatalina.ipynb`
 
